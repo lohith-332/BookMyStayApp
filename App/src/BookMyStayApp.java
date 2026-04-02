@@ -11,4 +11,3 @@ public class BookMyStayApp {
         System.out.println("Application started successfully.");
     }
 }
-
